@@ -36,6 +36,10 @@
 						<input type="text" class="form-control" placeholder="Username" name="uname">
 					</div>
 					<div class="input-group">
+						<span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
+						<input type="text" class="form-control" placeholder="Username" name="uname">
+					</div>
+					<div class="input-group">
 						<span class="input-group-addon"><span class="glyphicon glyphicon-lock"></span></span>
 						<input type="password" class="form-control" placeholder="Password" name="pass">
 					</div>
